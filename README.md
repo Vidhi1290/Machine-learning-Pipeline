@@ -22,5 +22,5 @@ Welcome to the Machine Learning Pipeline Notebooks repository! If you're looking
 
 Feel free to explore these notebooks at your own pace, adapt them to your projects, and unleash your data-driven potential. Happy learning and coding! 🎉
 
-Author: Vidhi Waghela
-LinkedIn: [Connect with me]([Your LinkedIn Profile Link](https://www.linkedin.com/in/vidhi-waghela-434663198/)
+**Author:** Vidhi Waghela
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/vidhi-waghela-434663198/)
